@@ -1,0 +1,18 @@
+@import 'reset';
+@import 'navbar';
+@import 'hero';
+@import 'card';
+
+body {
+    background-color: white;
+
+    font-family: Poppins;
+}
+
+.grey {
+    color: #918e8B;
+}
+
+.bold {
+    font-weight: 600;
+}
