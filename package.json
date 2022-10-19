@@ -2,11 +2,11 @@
   "name": "airbnb",
   "private": true,
   "version": "0.0.0",
-	"homepage": "http://Kilx-D.github.io/airbnb-clone",
+	"homepage": "https://kilx-d.github.io/airbnb-clone",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "vite build --base=/.",
+    "build": "vite build --base=./",
     "preview": "vite preview",
     "sass": "sass src/scss:src/assets/css --watch",
 	"deploy": "gh-pages -d dist"
